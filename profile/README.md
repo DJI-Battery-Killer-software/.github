@@ -14,7 +14,7 @@
 
 ## What is DJI Battery Killer?
 
-**DJI Battery Killer** is a specialized tool designed to work with the Smart Batteries of drones by DJI (Spark, Mavic, Phantom and others). It enables you to access battery management systems (BMS), read cell data, clear PF/PF2 flags, and recover batteries that appear “dead”. :contentReference[oaicite:10]{index=10}  
+**DJI Battery Killer** is a specialized tool designed to work with the Smart Batteries of drones by DJI (Spark, Mavic, Phantom and others). It enables you to access battery management systems (BMS), read cell data, clear PF/PF2 flags, and recover batteries that appear “dead”.  
 It requires a USB→SMBus/I²C adapter (such as CP2112) and basic knowledge of battery pin-out and electronics.
 
 ---
